@@ -1,6 +1,6 @@
 # AdwithaTest
 PART-A(Theory) Answers
-1)Mention the working of Internet Website in terms of Front-end and Back-end Divisions
+1)Mention the working of Internet Website in terms of Front-end and Back-end Divisions.
 Ans:- An internet website consists of two main divisions: the front-end and the back-end. Each division has its specific role and functionality in the overall 
 functioning of a website.The term “front-end” refers to the user interface i.e users can interact directly with the website.Front-end developers design and 
 construct the user experience elements on the web page or app including buttons, menus, pages, links, graphics and more.
